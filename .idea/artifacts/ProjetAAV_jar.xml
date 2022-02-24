@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ProjetAAV:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ProjetAAV_jar</output-path>
+    <root id="archive" name="ProjetAAV.jar">
+      <element id="module-output" name="ProjetAAV" />
+    </root>
+  </artifact>
+</component>

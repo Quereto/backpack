@@ -1,0 +1,38 @@
+Piles ; 2 ; 5
+Oreiller ; 9 ; 9
+Couteau suisse ; 8 ; 3
+Ficelle ; 2 ; 7
+Sac poubelle ; 9 ; 4
+Torchons ; 1 ; 4
+Casseroles ; 6 ; 1
+Glaciere ; 9 ; 1
+Cuvette ; 15 ; 10
+Boite plastique ; 4 ; 9
+Eponge ; 1 ; 4
+Allumette ; 1 ; 1
+Bouteille ; 5 ; 7
+Ustensiles cuisine ; 9 ; 16
+Thermos ; 5 ; 7
+Tablier ; 1 ; 1
+Cafetiere ; 16 ; 20
+Planche a decouper ; 4 ; 8
+Boussole ; 1 ; 4
+Carte ; 9 ; 4
+Jumelles ; 3 ; 7
+Anti-moustique ; 1 ; 4
+Sandales ; 8 ; 1
+Livres ; 12 ; 5
+Bottes ; 4 ; 4
+Creme solaire ; 6 ; 7
+Switch ; 30 ; 10
+Lampe ; 2 ; 5
+Sac de couchage ; 3 ; 8
+Camping gaz ; 5 ; 14
+Boite alluminium ; 2 ; 6
+Tente ; 4 ; 13
+Roue ; 6 ; 17
+Trousse ; 3 ; 10
+Cartes ; 1 ; 4
+Briquet ; 1 ; 1
+Maillet ; 5 ; 5
+Trousse de toillette ; 6 ; 2
